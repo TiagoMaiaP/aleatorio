@@ -1,2 +1,2 @@
 'hello world'
-qualquer coisa
+qualquer coisa .
